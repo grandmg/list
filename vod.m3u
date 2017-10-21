@@ -1,0 +1,37 @@
+#EXTM3U VOD Shows
+#EXTINF:0, 007__cinnemma
+http://origin11.stream.highwebmedia.com:1935/live-origin/007__cinnemma-sd-663df6d2f085e95653476530c49fc1b7d32d13312dad418d025212204fcb2c1c_aac/playlist.m3u8
+#EXTINF:0, ALL IN THE FAMILY
+http://198.27.74.25:1935/app/aitf/playlist.m3u8
+#EXTINF:0, ALWAYS SUNNY IN PHIPADELPHIA
+http://198.27.74.25:1935/app/sunny/playlist.m3u8
+#EXTINF:0, AMERICAN DAD
+http://198.27.74.25:1935/app/americandad/playlist.m3u
+#EXTINF:0, Chavo 8
+rtmp://192.240.125.26:443/live?AHx0SNCnIJsbJmmSXOMD5bTBsfDRoMZZlive_mega_chavo http://vaughnlive.tv/4365714339/swf/VaughnSoftPlayer.swf http://vaughnlive.tv/mega_chavo
+#EXTINF:0, Married with Children
+http://vaughnlive.tv/lmshows_mwc
+#EXTINF:0, Rocko's Modern Life
+http://37.48.118.32/live/Rocko'sModernLife/playlist.m3u8
+#EXTINF:0, STAR TREK ENTERPRISE
+rtmp://$OPT:rtmp-raw=rtmp://198.27.74.25/app playpath=trekent01 swfUrl=http://www.tgun.tv/jwplayer/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?trekent01
+#EXTINF:0, STAR TREK TNG
+rtmp://$OPT:rtmp-raw=rtmp://198.27.74.25/app playpath=tng01 swfUrl=http://www.tgun.tv/jwplayer/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?tng01
+#EXTINF:0, The Walking Dead S03E01
+http://indostream.tv/files/videos/1350585430ecd7e.flv
+#EXTINF:0, The Walking Dead S03E02
+http://indostream.tv/files/videos/13509339816b0e5.flv
+#EXTINF:0, The Walking Dead S03E03
+http://indostream.tv/files/videos/135179970360fb9.flv
+#EXTINF:0, THIRD ROCK FROM THE SUN
+rtmp://$OPT:rtmp-raw=rtmp://198.27.74.25/app playpath=rock01 swfUrl=http://www.tgun.tv/jwplayer/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?rock01
+#EXTINF:0, UNIVISION
+http://142.44.137.100:8080/ch86/video.m3u8?token=9RSGkAgu93
+#EXTINF:0, VOD
+http://151.80.20.111:8000/get.php?username=annie&password=annie&type=m3u
+#EXTINF:0, VOD
+http://151.80.20.111:8000/get.php?username=eddie&password=eddie&type=m3u
+#EXTINF:0, vod,...
+http://158.69.52.43:8000/get.php?username=14022015&password=10122017&type=m3u
+#EXTINF:0, WORDS OF PEACE - IN THE BOX
+http://archive.org/download/scm-70098-inthebox/words-of-peace-in-the-box.pegssc.mpeg
