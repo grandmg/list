@@ -1,0 +1,41 @@
+#EXTM3U Japanese
+#EXTINF:0, 0-=-0=
+http://88.198.34.144:8000/get.php?username=4361&password=4361&type=m3u
+#EXTINF:0, A bs
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
+#EXTINF:0, Bs 1 japan
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs01.stream/playlist.m3u8
+#EXTINF:0, Bs japan
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8
+#EXTINF:0, Fuji
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd05.stream/playlist.m3u8
+#EXTINF:0, Fuji bs
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs05.stream/playlist.m3u8
+#EXTINF:0, Japan Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:0, Kanto TV #1
+http://stream2.mov3.co/hls/kanto.m3u8
+#EXTINF:0, Kids station
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs12.stream/playlist.m3u8
+#EXTINF:0, mbs
+rtmp://66.55.92.162/app/_definst_/sherming8888s-channel
+#EXTINF:0, Nhk bs
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs02.stream/playlist.m3u8
+#EXTINF:0, Nhk E
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd02.stream/playlist.m3u8
+#EXTINF:0, Nhk g
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
+#EXTINF:0, NTV
+http://mov3.co/en/ntv
+#EXTINF:0, Tbs bs
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs04.stream/playlist.m3u8
+#EXTINF:0, TOKYO MX
+rtmp://198.255.17.19:1337/live?tUAvJCMvSpPT9oT1An9boscFRZrd7Mo5/live_sherming88
+#EXTINF:0, Tokyo mx
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd08.stream/playlist.m3u8
+#EXTINF:0, Tokyo TV
+rtmp://stream6.mov3.co/live/kanto2
+#EXTINF:0, Tv tokyo
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
+#EXTINF:0, tvasahi
+http://mov3.co/en/tvasahi/
