@@ -1,0 +1,480 @@
+
+
+
+
+
+
+#EXTM3U Spain
+#EXTINF:0, 10 MAR DEL PLATA ARGENTINA
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:0, 3ABN Latino
+http://moiptvus-lh.akamaihd.net:80/i/latlive_1@328342/index_400_av-p.m3u8
+#EXTINF:0, A3SERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, ABN US
+http://brightcove03-f.akamaihd.net/iptv1_1_900@50919?videoId=1369803400001
+#EXTINF:0, Agueda TV
+http://agueda.tv/stream/stream.m3u8
+#EXTINF:0, AMC
+http://premium.exabytetv.info/total3/844hfoed/441/exabytetv.m3u8
+#EXTINF:0, AMC
+http://37.187.169.80:8080/ES-AMC/tracks-v1a1/index.m3u8
+#EXTINF:0, AMC HD
+http://cdn.opencable.es/hls/live/amchd/index.m3u8
+#EXTINF:0, Andalucia TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0, ANT 1
+http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
+#EXTINF:0, Antena 3
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
+#EXTINF:0, Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:0, Antena3 EspaÃ±a
+rtmp://&OPT;:rtmp-raw=rtmp://antena3fms35livefs.fplive.net:443/antena3fms35live playpath=stream-antena3 live=1
+#EXTINF:0, Aragon TV
+http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+#EXTINF:0, AXN ES
+https://cnhv.co/5u9t/live/nima/nima1/12733.ts
+#EXTINF:0, azteca 7
+http://goo.gl/aIXq0q
+#EXTINF:0, azteca 7
+http://goo.gl/aIXq0q
+#EXTINF:0, azteca 7
+http://goo.gl/aIXq0q
+#EXTINF:0, AZTECA NOTICIAS
+http://aztecalive-lh.akamaihd.net:80/i/0qeij0bji_1@26639/index_2_av-b.m3u8
+#EXTINF:0, AZTECA TRECE
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:0, BE MAD
+http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/9oczVsNTE66uaerrrQhhZZ2KqsRPyxAa/cn/a8ed7dadb9984eb59f16c572caa62cb0.m3u8
+#EXTINF:0, Bein La Liga HD
+http://original.tumarcador.xyz/ipvt_002
+#EXTINF:0, bein, ES, Latino,...
+http://149.202.208.25:5210/get.php?username=nGDjuvtTbZ&password=pZVzv2wO40&type=m3u
+#EXTINF:0, Bein, ES, OSN, UK,...
+http://149.202.208.25:5210/get.php?username=PTDNXA4on7&password=4MiiaJWnJz&type=m3u
+#EXTINF:0, bein, ES, TR, PK,...
+http://portal.onlineiptv.net:5210/get.php?username=X2gnOe5227&password=NOVEJrhYiZ&type=m3u
+#EXTINF:0, bein, spain
+http://149.202.208.25:5210/get.php?username=uUPKzeUIGk&password=rQ0Eg5DUkr&type=m3u
+#EXTINF:0, bingo+
+http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15429.m3u8
+#EXTINF:0, Brasil, Latino
+http://zial.dyndns.tv:8000/get.php?username=kobi&password=kobi&type=m3u
+#EXTINF:0, C+ ACCION
+rtmp://$OPT:rtmp-raw=rtmp://23.227.165.66/iguide playpath=uqgivhxc58hqdj7 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:0, C5N Argentina
+rtmp://server3.stweb.tv./c5n/live_baja
+#EXTINF:0, C5N BUENOS AIRES
+http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
+#EXTINF:0, Calle 13 HD
+rtsp://198.144.158.183:80/pub/9G1hWULuNSLDDGIeLpSM
+#EXTINF:0, Cameres TV3
+rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_Cameres_FLV
+#EXTINF:0, CANAL 10 EMPORDA
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:0, Canal 9
+http://unlimited2-cl.dps.live/c9/c9.smil/c9/livestream3/playlist.m3u8
+#EXTINF:0, Canal Odisea HD
+http://cdn.opencable.es/hls/live/odiseahd/index.m3u8
+#EXTINF:0, CARACOL
+http://208.75.225.28:1935/live/cgsvrdsgmth/playlist.m3u
+#EXTINF:0, Chile - few working
+http://199.180.114.174:8000/get.php?username=qRt2tGHwil&password=H3bLIY1eaZ&type=m3u
+#EXTINF:0, CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/38.m3u8
+#EXTINF:0, CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream3/playlist.m3u8
+#EXTINF:0, CUATRO HD
+rtmp://$OPT:rtmp-raw=rtmp://174.37.222.57/live playpath=cuatrolacajatv?id=14756 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/cuatrolacajatv/1/670/400
+#EXTINF:0, dcine
+http://ipsatpro.com:8000/live/222222/222222/1028.ts
+#EXTINF:0, Discovery Channel HD
+http://cdn.opencable.es/hls/live/discoveryhd/index.m3u8
+#EXTINF:0, Efecto TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8
+#EXTINF:0, Efekto
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:0, EL PINGÜINO TV
+rtmp://streaming.elpinguino.com:1935/live/pinguinotv_360p
+#EXTINF:0, El Trece
+http://aztecalive-lh.akamaihd.net:80/i/0oxnvzh8a_1@175671/index_3_av-p.m3u8
+#EXTINF:0, es
+http://IPTVFREE1.COM:6969/get.php?username=6&password=www.iptvrestream.net&type=m3u
+#EXTINF:0, ES
+http://2.15.79.67:9985/playlist.m3u8
+#EXTINF:0, ES M3U
+http://62.210.162.88:80/get.php?username=ES80&password=140325012016&type=m3u
+#EXTINF:0, ES, PT, UK
+http://94.61.189.67:9981/playlist
+#EXTINF:0, ES, UK, USA
+http://149.56.240.30:25461/get.php?username=juana&password=juana1234&type=m3u
+#EXTINF:0, ES, UK,...
+http://junglacristal.ddns.net:25461/get.php?username=dino&password=akadino@@&type=m3u
+#EXTINF:0, Espana
+http://163.172.15.23:8000/get.php?username=ncxGSWShRz5&password=NJCVhLk302p&type=m3u
+#EXTINF:0, Espana, world
+http://portal.onlineiptv.net:5210/get.php?username=w5RaJIIPPr&password=dVrlfBI5VY&type=m3u
+#EXTINF:0, Esport 3
+rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_ES3_FLV
+#EXTINF:0, estrellas
+http://batman.tutvgratis.tv/ch/1536.m3u8?token=KAw7LI5FgbRud79zzTtcp32FvWVW0+Ut++mdPV3WUMN1yy93lqxbu/fEA+7jAiy++ZVJycvFXEj8S7/QHyXLVxRvHc1PmO3qP66h7fS9SmNXNSN2YNH+3oyO3MFseUJV8DKac+cBnriDki1nTQqBdQ8eZ3O6dQly9LN/iktSgRg=|285+5xD2IWunVNPLu8BYix0s2YqvCTpo8XWMkCPqEZQ=.m3u8
+#EXTINF:0, Euronews (ES)
+rtsp://fr-par-5.stream-relay.hexaglobe.net:1935/rtpeuronewslive/es_video750_flash_all.sdp
+#EXTINF:0, Euronews (SP)
+http://185.74.70.10/euronews-04.aac?type=.flv
+#EXTINF:0, EuroNews espanol
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
+#EXTINF:0, Eurosport
+http://esioslive-i.akamaihd.net/hls/live/201630/AL_ESP1_SP_SPA/playlist_400.m3u8
+#EXTINF:0, Exabite
+http://www.exabytetv.info/LA3.m3u
+#EXTINF:0, F! HD
+http://original.tumarcador.xyz/ipvt_007
+#EXTINF:0, FDF
+rtmp://$OPT:rtmp-raw=rtmp://kinshasa.zcast.us/liveedge playpath=fdflacaja-65889 swfUrl=http://player.zcast.us/player58.swf live=1 pageUrl=http://zcast.us/gen.php?ch=fdflacaja-65889&width=670&height=400
+#EXTINF:0, filmslatins
+rtmp://144.217.5.115/vivo/rapidoyfurioso8.mp4
+#EXTINF:0, Four CUATRO
+rtmp://$OPT:rtmp-raw=rtmp://174.37.222.57/live/cuatrolacajatv?id=14756 live=1
+#EXTINF:0, FOX
+http://www.mipsplayer.com/embedplayer/zeyufoxx1/1/620/382
+#EXTINF:0, FOX LIFE HD 2
+https://cdn.opencable.es/hls/live/foxlife/index.m3u8
+#EXTINF:0, FX CHANNEL
+rtmp://$OPT:rtmp-raw=rtmp://204.45.157.98/flash/16005 pageUrl=http://sawlive.tv/embed/halilou/
+#EXTINF:0, Gol T
+http://cdnvir-edge01.mediapro.es/niceLiveServer/_definst_/53662626/af476381c21fbecc29d1e8c487a6051a/golt_live_24h_MB_2000/media_w886217303_8915.m3u8?wowzasessionid=186825503
+#EXTINF:0, hbo
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/27edbc2409d7ae38eba34a01ffc9d70df68d13e3/102.m3u8
+#EXTINF:0, Hispan TV
+http://efusion1-i.akamaihd.net/hls/live/252882/hispantv/playlist.m3u8
+#EXTINF:0, Historia HD
+http://cdn.opencable.es/hls/live/historiahd/index.m3u8
+#EXTINF:0, History
+https://live55.vkuserlive.com/637603/live/uK7viRRAfwgpxikM/playlist.m3u8
+#EXTINF:0, Hollywood HD
+http://cdn.opencable.es/hls/live/hollywoodhd/index.m3u8
+#EXTINF:0, Hondured
+http://173.236.71.62:1935/hondured/hrtv.sdp/chunklist_w1352803756.m3u8
+#EXTINF:0, http://37.152.128.66:3005/play/a007
+http://37.152.128.66:3005/play/a007
+#EXTINF:0, http://ds.serving-sys.com/BurstingRes//Site-43863/Type-12/1c9e8f1a-66b0-478a-b889-3cad728a0418.flv
+http://ds.serving-sys.com/BurstingRes//Site-43863/Type-12/1c9e8f1a-66b0-478a-b889-3cad728a0418.flv
+#EXTINF:0, http://exabytetv.info/cgeo3.m3u
+http://exabytetv.info/cgeo3.m3u
+#EXTINF:0, http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1320.ts
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1320.ts
+#EXTINF:0, http://live563500.radionomy-live.net:2696
+http://live563500.radionomy-live.net:2696
+#EXTINF:0, http://streaming.radionomy.com/100-purasalsa
+http://streaming.radionomy.com/100-purasalsa
+#EXTINF:0, http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.t
+#EXTINF:0, HWD - Hollywood
+http://luxtivi.k18.us/hollywood.m3u8
+#EXTINF:0, iptv
+http://su.ff.avast.com/R/A3kKIGU2ZjE2MjE5MmY2YzRiYTZiZjlmODdmMmYyZjA1ODlkEgQAJgMXGKkCIgEAKgcIBBDPqeFOKgcIAxDPwN9OMgoIBBDPqeFOGIAKOPCRiIgBQiBxS0oLcmFTtiAy5ylC7IeosrmlrNVmtnJyWms4wsZeHUiAgpgY
+#EXTINF:0, La 1
+http://62.4.21.70:8000/live/akdim/akdim/1854.ts
+#EXTINF:0, la 6
+http://cinestrenostv.tv/canales/nacionales/la-sexta.php
+#EXTINF:0, Latino
+http://comunidadiptv.org/online/estable/lista.php?pass=oMxtrqEm.m3u
+#EXTINF:0, Latino
+http://149.56.29.127:8000/get.php?username=andrea&password=andrea&type=m3u
+#EXTINF:0, Latino
+http://186.3.234.131:8000/playlist.m3u8
+#EXTINF:0, Latino
+http://149.56.23.205:8000/get.php?username=master&password=master&type=m3u
+#EXTINF:0, Latino
+http://23.237.0.58:8000/get.php?username=2&password=2&type=m3u
+#EXTINF:0, Latino
+http://23.237.22.13:8000/get.php?username=mariocs&password=mariocs&type=m3u
+#EXTINF:0, LAtino
+http://51.15.135.192:8000/get.php?username=JUANMOS&password=TOTALPLAY&type=m3u
+#EXTINF:0, Latino
+http://zial.dyndns.tv:8000/get.php?username=andrea&password=andrea&type=m3u
+#EXTINF:0, Latino
+http://66.70.178.201:25461/get.php?username=demo&password=70w&type=m3u
+#EXTINF:0, Latino
+http://192.99.45.99:8000/get.php?username=Rodi80&password=ra8805&type=m3u
+#EXTINF:0, Latino
+http://142.4.217.62:25461/get.php?username=colombia3&password=7O17UlMnux&type=m3u
+#EXTINF:0, Latino
+http://painel.iptvmove.com:25461/get.php?username=Angela&password=Angela&type=m3u
+#EXTINF:0, Latino
+http://167.250.168.119:9981/playlist
+#EXTINF:0, Latino, Spain, Portugal, USA, UK
+http://104.245.96.214:8000/get.php?username=Clemente&password=clemente&type=m3u
+#EXTINF:0, Latino, Spain, USA, UK,...
+http://104.245.96.214:8000/get.php?username=negro&password=negro&type=m3u
+#EXTINF:0, Latino, USA
+http://163.172.78.96:8000/get.php?username=sam&password=sam&type=m3u
+#EXTINF:0, Latino, Usa channels
+http://149.56.240.30:25461/get.php?username=roku&password=roku&type=m3u
+#EXTINF:0, Levante TV
+rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive
+#EXTINF:0, Luz TV
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+#EXTINF:0, Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8
+#EXTINF:0, Mega
+http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_4_av-p.m3u8
+#EXTINF:0, Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:0, Mega Espana
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:0, Mix
+http://148.255.159.246:8081/playlist.m3u8
+#EXTINF:0, Mix playlist
+http://worldcs.info:8080/get.php?username=alberto&password=alberto&type=m3u
+#EXTINF:0, movistar
+http://37.152.128.66:4000
+#EXTINF:0, Multimedios
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0, MURCIA HD
+rtmp://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv
+#EXTINF:0, MXQ Deportes
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:0, Ncdn
+http://pastebin.com/4K3fy5kH
+#EXTINF:0, NEOX HD
+rtmp://$OPT:rtmp-raw=rtmp://antena3fms35livefs.fplive.net:443/antena3fms35live-live playpath=stream-eventos2 swfUrl=http://www.antena3.com/AkamaiPlugin/AkamaiAdvancedStreamingPlugin.swf pageUrl=http://www.antena3.com/static/swf/A3PlayerAkamai.swf?xml=http://www.antena3.com/static/directos/directo3.xml&autoplay=true live=1
+#EXTINF:0, NITRO
+rtmp://$OPT:rtmp-raw=rtmp://173.193.242.248/live/nitrolacajatv?id=126587 live=1
+#EXTINF:0, NOVA
+http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:0, Oxigeno
+rtmp://rpplivefs.fplive.net/rpp02live-live/streamOXIRD
+#EXTINF:0, PLUS 1
+rtmp://$OPT:rtmp-raw=rtmp://185.2.138.108/live playpath=lalalala?id=11275 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/lalalala/1/645/395 conn=S:OK â€“live
+#EXTINF:0, PLUS ACCION
+rtmp://$OPT:rtmp-raw=rtmp://50.7.173.250/iguide playpath=uqgivhxc58hqdj7 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_go.php?width=650&height=400&channel=11167&autoplay=true token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:0, PLUS DEPORTES
+rtmp://$OPT:rtmp-raw=rtmp://50.7.133.138/iguide playpath=41mpv2b0gssazjw swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_go.php?width=650&height=400&channel=11028&autoplay=true token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:0, PLUS TOROS
+rtmp://$OPT:rtmp-raw=rtmp://146.185.18.42/stream playpath=toretes?id=110621 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/toretes/1/645/395 conn=S:OK â€“live
+#EXTINF:0, Real Madrid
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0, Real Madrid TV
+http://portal.rapidiptv.com:8080/live/Maki/maki/5552.ts
+#EXTINF:0, Rosadito TV
+http://tecnotv.info/rosadin.m3u
+#EXTINF:0, RT PRINCIPADO ASTURIAS 7
+http://iphone.rtpa.stream.flumotion.com:80/rtpa/tv-iphone/main.m3u8
+#EXTINF:0, rtmp://188.165.213.105/redirect?token=itHt3FpVPhfJ_VKaRytztQExpired=1430490866 playpath=verfoxlive8q
+rtmp://188.165.213.105/redirect?token=itHt3FpVPhfJ_VKaRytztQExpired=1430490866 playpath=verfoxlive8qw625a swfUrl=http://vercosasgratis.com/player.swf pageUrl=http://vercosasgratis.com/
+#EXTINF:0, RTPA Asturias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:0, SBN
+http://sonlife-i.akamaihd.net/hls/live/250023/spanishvtt/spanishvtt1/spanishvtt1.m3u8
+#EXTINF:0, series+
+http://94.23.117.92:8000/live/sonia/sonia/160.ts
+#EXTINF:0, SERVI TAROT
+http://87.106.244.74:1935/live/myStream_1/livestream.m3u8
+#EXTINF:0, Sevilla FC
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+#EXTINF:0, skysport
+http://bur879.com:8000/get.php?username=tomy6565&password=78290f&type=m3u
+#EXTINF:0, Space
+http://premium.exabytetv.info/total3/844hfoed/456/exabytetv.m3u8
+#EXTINF:0, Spain
+http://62.210.162.88:80/get.php?username=ES85&password=120630012016&type=m3u
+#EXTINF:0, Spain
+http://iptv.alphacs.tv:8080/get.php?username=NBELoAp61d&password=2KRwspJjrS&type=m3u
+#EXTINF:0, Spain
+http://164.132.171.155:8000/get.php?username=1&password=123456&type=m3u
+#EXTINF:0, Spain
+http://212.231.9.89:9981/playlist
+#EXTINF:0, Spain
+http://80.30.18.187:9981/playlist
+#EXTINF:0, Spain
+http://37.15.77.220:9981/playlist
+#EXTINF:0, Spain
+http://163.172.213.25:8000/get.php?username=italia&password=italia&type=m3u
+#EXTINF:0, Spain
+http://90.169.232.190:8000/playlist.m3u8
+#EXTINF:0, Spain
+http://d4life.dtdns.net:8000/get.php?username=alberto&password=alberto&type=m3u
+#EXTINF:0, Spain
+http://84.121.114.217:8000/playlist.m3u8
+#EXTINF:0, Spain
+http://rckiptv.ddns.net:7676/get.php?username=nqashalhob&password=nqashalhob&type=m3u
+#EXTINF:0, Spain
+http://163.172.52.83:8000/get.php?username=testapp&password=testapp&type=m3u
+#EXTINF:0, Spain
+http://185.117.46.1:9090/playlist.m3u8
+#EXTINF:0, Spain
+http://d4life.dtdns.net:8000/get.php?username=test11&password=test11&type=m3u
+#EXTINF:0, Spain
+http://d4life.dtdns.net:8000/get.php?username=alfonso&password=alfonso&type=m3u
+#EXTINF:0, Spain
+http://185.193.202.70:9981/playlist
+#EXTINF:0, Spain + EN
+http://185.26.174.67:44444/playlist.m3u8
+#EXTINF:0, Spain + VOD
+http://d4life.dtdns.net:8000/get.php?username=julian&password=julian&type=m3u
+#EXTINF:0, Spain +...
+http://149.202.208.25:5210/get.php?username=35JFYfRkDT&password=qzBBj7oG9m&type=m3u
+#EXTINF:0, Spain astra
+http://62.167.57.5:8000/playlist.m3u8
+#EXTINF:0, Spain astra
+http://185.53.161.147:8888/playlist.m3u8
+#EXTINF:0, Spain astra
+http://84.122.102.79:9981/playlist
+#EXTINF:0, Spain channels
+http://146.66.254.1:8000/playlist.m3u8
+#EXTINF:0, Spain IPTV
+http://163.172.213.25:8000/get.php?username=sebas&password=sebas&type=m3u
+#EXTINF:0, Spain IPTV
+http://37.187.128.169:8000/get.php?username=kdslf445874fssfas1&password=fasdfa444dSSDFf&type=m3u
+#EXTINF:0, Spain IPTV
+http://smartiptvspain.mine.nu:980/get.php?username=lorenzo1&password=lorenzo1&type=m3u
+#EXTINF:0, Spain IPTV
+http://37.187.128.169:8000/get.php?username=dd114a1SSDD1uklk&password=4As44dfuucckk&type=m3u
+#EXTINF:0, Spain IPTV
+http://163.172.213.25:8000/get.php?username=pascal&password=pascal&type=m3u
+#EXTINF:0, Spain IPTV
+http://149.100.19.148:8000/playlist.m3u8
+#EXTINF:0, Spain IPTV
+http://iptv.cs2017.info:9090/get.php?username=casiy&password=uyt&type=m3u
+#EXTINF:0, Spain IPTV
+http://37.187.128.169:8000/get.php?username=dkkkasd4545rrrpp&password=akqpp33845hvnajur&type=m3u
+#EXTINF:0, Spain IPTV
+http://188.62.160.32:25000/playlist.m3u8
+#EXTINF:0, Spain mix + World
+http://51.255.94.145:980/get.php?username=lorenzo&password=lorenzo&type=m3u
+#EXTINF:0, Spain tvheadend
+http://95.21.150.15:9981/playlist
+#EXTINF:0, Spain VIP
+http://xc.cobra-iptv.com:25461/get.php?username=spanish-v2&password=TdTffMonWn&type=m3u
+#EXTINF:0, Spain, ...
+http://4k.electrodahri.com:8000/get.php?username=radiosatna.tk&password=BJ527TgFIf&type=m3u
+#EXTINF:0, Spain, bein
+http://d4life.dtdns.net:8000/get.php?username=cristobal&password=cristobal&type=m3u
+#EXTINF:0, Spain, Fr, IT, Bein
+http://megaiptv.spdns.eu:8000/get.php?username=free5284&password=VtldGr3cWz&type=m3u
+#EXTINF:0, Spain, PT
+http://cdn.miptv.ws:25463/get.php?username=syqpl&password=syqqb&type=m3u
+#EXTINF:0, Spain, Sports
+http://163.172.213.25:8000/get.php?username=raul&password=raul&type=m3u
+#EXTINF:0, Spain, Sports
+http://158.69.52.43:8000/get.php?username=barias&password=barias&type=m3u
+#EXTINF:0, Spain, USA, UK,...
+http://149.56.240.30:25461/get.php?username=pete1&password=pete1&type=m3u
+#EXTINF:0, spain,...
+http://163.172.52.83:8000/get.php?username=59hkV7fNS2U&password=21g2yiAUkP4&type=m3u
+#EXTINF:0, Spanish
+http://zialcobra.dyndns.org:8000/get.php?username=Francisco&password=Francisco&type=m3u
+#EXTINF:0, Spanish
+http://158.69.52.43:8000/get.php?username=Lista114&password=114&type=m3u
+#EXTINF:0, Spanish playlist
+http://5.10.201.88:9090/playlist.m3u8
+#EXTINF:0, Spanish: AtreSeries - HD - ESP
+http://a3live-lh.akamaihd.net:80/i/a3s/geoa3series_1@122775/index_3_av-p.m3u8
+#EXTINF:0, Spanish: SEVILLA FC TV (ESP) HQ
+http://sevillafc_live-lh.akamaihd.net:80/i/video_0@354142/index_0700_av-b.m3u8
+#EXTINF:0, Sport playlist
+http://62.210.83.87:8000/get.php?username=sport&password=sport&type=m3u
+#EXTINF:0, Super 3
+rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_Super3_FLV
+#EXTINF:0, SyFy
+http://79.145.164.237:4022/udp/239.0.0.111:8208
+#EXTINF:0, syfy
+rtmp://$OPT:rtmp-raw=rtmp://109.123.116.154/live playpath=f4rsyfy?id=71069 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ conn=S:OK â€“live
+#EXTINF:0, T HD
+rtsp://201.219.100.30:1935/telpintv/ttv.stream_720p
+#EXTINF:0, Tecnotv Mexico
+http://tecnotv.info/sd.m3u
+#EXTINF:0, Tele Asturias
+rtmp://149.11.34.6/live/teleasturias.stream
+#EXTINF:0, Tele Madrid
+http://telemadridlive-f.akamaihd.net/telemadridf_1_1@112900?videoId=2750412247001&lineUpId;=&pubId=104403117001&playerId=111868723001&affiliateId;=&bandwidthEstimationTest=true&v=3.1.0&fp=WIN
+#EXTINF:0, TeleCeiba HD
+http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:0, telecinco
+http://verdirectotv.com/tv/nacionales/telecinco2.html
+#EXTINF:0, telesur audio
+rtmp://cast.streamingconnect.tv:1935/telesuraudio/telesuraudio
+#EXTINF:0, televenezuela
+http://vaughnlive.tv/abc_televenezuela1
+#EXTINF:0, Telever Canal 12
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+#EXTINF:0, TV Huelva (Andalucia-EspaÃ±a)
+rtmp://flash3.todostreaming.es/huelvatv/livestream
+#EXTINF:0, TV Canarias
+http://streamrtvcnet.mad.idec.net/rtvcnet/rtvcnet.stream/vcx7.m3u8
+#EXTINF:0, TV Ceuta (EspaÃ±a)
+rtmp://flash3.todostreaming.es/rtvceuta/livestream
+#EXTINF:0, TV ES 2
+rtmp://cast.streamingconnect.tv/tves2/tves2
+#EXTINF:0, TV Melilla
+rtmp://stream.tvmelilla.es:1935/tvmelilla playpath=live swfUrl=http://tvmelilla.es/jwplayer/player.swf live=1 pageUrl=http://tvmelilla.es/directo.html
+#EXTINF:0, TV Melilla (EspaÃ±a)
+rtmp://stream.tvmelilla.es/tvmelilla/live
+#EXTINF:0, TV Pop
+http://v3.tustreaming.cl/tvpop/live1/index.m3u8
+#EXTINF:0, TV Red
+rtmp://69.164.193.177/live/myStream
+#EXTINF:0, TV Zacatecas
+mms://stream.netro.ca/tvzac
+#EXTINF:0, TV3
+rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_TV3_FLV
+#EXTINF:0, TV3 CAT
+http://www.tv3.cat/directetv3cat/tv3cat.m3u8
+#EXTINF:0, TV3.CAT
+rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_TV3CAT_FLV
+#EXTINF:0, TVC Deportes
+rtmp://$OPT:rtmp-raw=rtmp://50.7.28.82/flash/16007 pageUrl=http://sawlive.tv/embed/halilou/
+#EXTINF:0, TVC DEPORTES
+http://187.247.255.139/Apple/TVCDeportes800.m3u8
+#EXTINF:0, TVC Latino
+rtmp://204.107.26.252:8086/live/213.high.stream
+#EXTINF:0, TVE 1
+http://api.iptv.ink/pl.m3u8?ch=35452405
+#EXTINF:0, TVE 2
+http://api.iptv.ink/pl.m3u8?ch=91170153
+#EXTINF:0, TVE 24
+http://api.iptv.ink/pl.m3u8?ch=92978413
+#EXTINF:0, Tve HD (Connect Sometimes)
+http://rtvehdflesp-f.akamaihd.net/THD_AKH_WHD_GEO_1_1500@4813?v=2.6.8&fp=WIN
+#EXTINF:0, Tves Venezuela
+rtmp://50.7.67.76:1935/tves/tves
+#EXTINF:0, TVGA America
+http://media3.crtvg.es/live/tvga/vcx7.m3u8
+#EXTINF:0, TVGA Europa
+http://media3.crtvg.es/live/tvge/vcx7.m3u8
+#EXTINF:0, UCV
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:0, UNITEL
+https://livestream-f.akamaihd.net/8665913_4253600_lsisid6e5z1l6ep53lp_1_678@407774?v=3.8.0&fp=WIN 25,0,0,148&r=XPUNY&g=GXFGOORGOMPB
+#EXTINF:0, UNITEL COCHABAMBA
+http://200.58.64.252:8081/stream4/stream.m3u8
+#EXTINF:0, Univision TDN
+http://stdephds-lh.akamaihd.net:80/i/ad3pst02hds_1@335205/master.m3u8
+#EXTINF:0, Urbe TV (Venezuela)
+mms://stream-03.urbe.edu/tve
+#EXTINF:0, Vibra
+rtmp://66.240.202.13:1935/live/livestream
+#EXTINF:0, VIVE TV
+mmsh://difusion.cantv.net/vhost-covetel_live
+#EXTINF:0, VTV Venezuela
+rtmp://50.7.67.76:1935/vtvweb/vtvweb
+#EXTINF:0, world
+http://163.172.6.8:8000/get.php?username=wEgIEdTWfG&password=wd29GhnbXz&type=m3u
+#EXTINF:0, world
+http://ipsatpro.info:8000/get.php?username=Z44SpakoVy&password=MDtlbiLthz&type=m3u
+#EXTINF:0, world iptv
+http://andutv.ddns.net:6500/get.php?username=znoqq&password=zno1&type=m3u
+#EXTINF:0, world, latino
+http://144.217.70.189:8000/get.php?username=C44EAC0EE84C&password=I3kl0uxFPm&type=m3u
+#EXTINF:0, WRESTLING CHANNEL SPORTS
+rtmp://$OPT:rtmp-raw=rtmp://50.7.28.82/flash/16449 pageUrl=http://sawlive.tv/embed/halilou/
+#EXTINF:0, XTRM HD
+http://cdn.opencable.es/hls/live/xtremehd/index.m3u8
+#EXTINF:0, Yuna vision
+mms://200.88.126.11/Yuna10
+
+
+
